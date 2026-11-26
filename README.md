@@ -31,8 +31,8 @@ JavaScript – Game loop, state management, and random event logic
 
 How to Run
 
-Clone or download this repository.
+1. Clone or download this repository.
 
-Put the images in one folder.
+2. Put the images in one folder.
 
-Open index.html in any web browser.
+3. Open index.html in any web browser.
